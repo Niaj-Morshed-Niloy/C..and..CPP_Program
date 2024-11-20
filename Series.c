@@ -1,5 +1,5 @@
 //Write a c program to calculate the sum following series-
-     //2^3+4^3+6^3+……+n^3
+     //2^3+4^3+6^3+â€¦â€¦+n^3
 
      #include<stdio.h>
      main()
