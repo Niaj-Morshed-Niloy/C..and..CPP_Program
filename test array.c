@@ -1,7 +1,6 @@
 //Write a program to initialize array at compile time.
 
 #include<stdio.h>
-//#include<conio.h>
 int main()
 {
     int i;
