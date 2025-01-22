@@ -8,5 +8,5 @@ int main()
     printf("%d\n",i);
     }
     printf("sum is :%d",sum);
-    getch();
+    return 0;
 }
