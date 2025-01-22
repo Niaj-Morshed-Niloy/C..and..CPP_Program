@@ -9,5 +9,5 @@ main()
             break;
         printf("BITC\n");
     }
-    getch();
+return 0;
 }
